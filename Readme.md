@@ -67,3 +67,4 @@ Executed for 2.4964780807495 seconds.
 # Find mutations in a gene
 php cli.php find_all_mutations_in_gene ROS1
 ```
+[Find Mutations Output](example_outputs/find_mutations.txt).
