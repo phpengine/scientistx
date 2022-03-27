@@ -1,0 +1,9 @@
+
+Starting at: 02:51:27 27/03/2022
+
+ROS1, protein-coding, 6098
+
+All Requested Genes found
+Ending at: 02:51:29 27/03/2022
+Executed for 2.3184320926666 seconds.
+

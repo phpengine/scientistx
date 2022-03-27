@@ -3,7 +3,15 @@
 ## Using the cBioPortal API
 
 ### About
-This is a project to implement the Scientist X question in an automated manner.
+This is a project to implement the Scientist X question in an automated manner through
+the cBioPortal API.
+
+### TLDR
+
+[Confirm Gene Code Output](example_outputs/confirmgenecode.txt)
+
+[Find Mutations Output](example_outputs/find_mutations.txt)
+
 
 ### Installation
 If you just want to use the CLI, just install PHP. If you're on a Mac, it's already there.
@@ -64,4 +72,5 @@ Executed for 2.4964780807495 seconds.
 # Find mutations in a gene
 php cli.php find_all_mutations_in_gene ROS1
 ```
-[Find Mutations Output](example_outputs/find_mutations.txt).
+[Find Mutations Output](example_outputs/find_mutations.txt)
+[Find Mutations Output](example_outputs/find_mutations.txt)
