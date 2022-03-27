@@ -1,15 +1,12 @@
 # Scientist X
 
-## Using the 
-
+## Using the cBioPortal API
 
 ### About
 This is a project to implement the Scientist X question in an automated manner.
 
-
 ### Installation
 If you just want to use the CLI, just install PHP. If you're on a Mac, it's already there.
-
 
 ### Usage
 
